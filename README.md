@@ -5,7 +5,7 @@ Originally a simple group management bot with multiple admin features, it has ev
 simple to use.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/twisted-fire-starter/Marie-2.0-English)
-<a href=(https://www.herokucdn.com/deploy/button.svg)]"https://heroku.com/deploy?template=https://github.com/twisted-fire-starter/Marie-2.0-English" target="_blank"</a>
+<a href=(https://www.herokucdn.com/deploy/button.svg)]"https://heroku.com/deploy?template=https://github.com/twisted-fire-starter/Marie-2.0-English" target="_blank">heroku.com</a>
 
 Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
 
